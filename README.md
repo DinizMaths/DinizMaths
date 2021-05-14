@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá, pessoas 👋
+Meu nome é Matheus e atualmente sou graduando do curso de Ciências e Tecnologia com ênfase em computação.
 
 <!--
 **DinizMaths/DinizMaths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FMathsDiniz)

@@ -2,6 +2,7 @@
 
 
 - 🎓 Atualmente sou graduando do curso de Ciências e Tecnologia com ênfase em computação.
+- 💻 Gosto muito de estudar Data Science pois acho incrível a possibilidade de transformar números em insights além de poder realizar predições baseadas nesses dados.
 
 <div align="center">
   <a href="https://github.com/DinizMaths"></a>

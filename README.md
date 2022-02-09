@@ -27,8 +27,14 @@
 <div style="display: inline_block">
   <img align="center" alt="Maths-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Maths-Jupyter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" alt="Maths-Pandas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
   <img align="center" alt="Maths-Numpy" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+  <img align="center" alt="Maths-Pandas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+  <img align="center" alt="Maths-Matplotlib" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
+  <img align="center" alt="Maths-Seaborn" height="50" width="60" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />
+  <img align="center" alt="Maths-Scikitlearn" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+  <img align="center" alt="Maths-Pytorch" height="50" width="90" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" />
+  <img align="center" alt="Maths-Keras" height="50" width="60" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras-text.svg" />
+  
 </div>
 <br>
 

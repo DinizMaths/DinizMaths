@@ -20,6 +20,7 @@
   <img align="center" alt="Maths-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Maths-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Maths-Django" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
+  <img align="center" alt="Maths-Bootstrap" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" />
 </div>
 <br>
 

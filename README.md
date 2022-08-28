@@ -1,7 +1,8 @@
 ## Olá! Eu sou Matheus Diniz
 
 
-- 🎓 Atualmente sou graduando do curso de Ciências e Tecnologia com ênfase em computação.
+- 🎓 Graduado em Ciências e Tecnologia com ênfase em Computação pela Universidade Federal do Rio Grande do Norte.
+- 📚 Graduando em Engenharia de Computação na Universidade Federal do Rio Grande do Norte.
 
 <div align="center">
   <a href="https://github.com/DinizMaths"></a>

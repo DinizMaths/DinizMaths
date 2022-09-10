@@ -1,8 +1,7 @@
-## Olá! Eu sou Matheus Diniz
+# Olá! Eu sou Matheus Diniz
 
-
-- 🎓 Graduado em Ciências e Tecnologia com ênfase em Computação pela Universidade Federal do Rio Grande do Norte.
-- 📚 Graduando em Engenharia de Computação na Universidade Federal do Rio Grande do Norte.
+- 🎓 Graduado em **Ciências e Tecnologia com ênfase em Computação** pela **Universidade Federal do Rio Grande do Norte**.
+- 📚 Graduando em **Engenharia de Computação** na **Universidade Federal do Rio Grande do Norte**.
 
 <div align="center">
   <a href="https://github.com/DinizMaths"></a>
@@ -12,8 +11,8 @@
 
 ---
 
-### Tecnologias:
-- Web:
+## Tecnologias:
+- ### Web:
 
 <div style="display: inline_block">
   <img align="center" alt="Maths-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,7 +23,7 @@
 </div>
 <br>
 
-- DataScience:
+- ### DataScience:
 
 <div style="display: inline_block">
   <img align="center" alt="Maths-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -41,7 +40,7 @@
 </div>
 <br>
 
-- Extra:
+- ### Extra:
 
 <div style="display: inline_block">
   <img align="center" alt="Maths-Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />

@@ -12,17 +12,6 @@
 ---
 
 ## Tecnologies:
-- ### Web:
-
-<div style="display: inline_block">
-  <img align="center" alt="Maths-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Maths-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Maths-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Maths-Django" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
-  <img align="center" alt="Maths-Bootstrap" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" />
-</div>
-<br>
-
 - ### Data Science:
 
 <div style="display: inline_block">
@@ -40,10 +29,6 @@
     <img align="center" alt="Maths-Keras" height="70" width="60" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras-text.svg" />
     <img align="center" alt="Maths-PowerBI" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/512px-Power_bi_logo_black.svg.png" />
   </p>  
-
-
-
-  
 </div>
 <br>
 

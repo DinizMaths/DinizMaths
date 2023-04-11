@@ -1,4 +1,4 @@
-# Olá! Eu sou Matheus Diniz
+![Banner](https://raw.githubusercontent.com/dinizmats/dinizmaths/master/profile_banner.png)
 
 - 🎓 Graduado em **Ciências e Tecnologia** pela **Universidade Federal do Rio Grande do Norte**.
 - 📚 Graduando em **Engenharia de Computação** na **Universidade Federal do Rio Grande do Norte**.

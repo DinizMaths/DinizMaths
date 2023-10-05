@@ -1,5 +1,6 @@
 ![Banner](https://github.com/DinizMaths/DinizMaths/blob/main/profile_banner.png)
 
+
 - 🎓 Graduated in **Science and Technology** from the  **Universidade Federal do Rio Grande do Norte**.
 - 📚 Currently pursuing a degree in **Computer Engineering** at the **Universidade Federal do Rio Grande do Norte**.
 
@@ -11,6 +12,12 @@
 
 <div align="center">
   <img height="206em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinizmaths&theme=github_dark"/>
+</div>
+
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=dinizmaths&style=for-the-badge)
+
 </div>
 
 ---

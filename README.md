@@ -5,19 +5,19 @@
 - 📚 Currently pursuing a degree in **Computer Engineering** at the **Universidade Federal do Rio Grande do Norte**.
 
 <div align="center">
-  <a href="https://github.com/DinizMaths"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DinizMaths&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  
+  ![](https://komarev.com/ghpvc/?username=dinizmaths&style=for-the-badge)
+  
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DinizMaths&show_icons=true&theme=github_dark&include_all_commits=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinizMaths&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div align="center">
   <img height="206em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinizmaths&theme=github_dark"/>
-</div>
-
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=dinizmaths&style=for-the-badge)
-
 </div>
 
 ---

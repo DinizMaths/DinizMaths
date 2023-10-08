@@ -1,14 +1,9 @@
 ![Banner](https://github.com/DinizMaths/DinizMaths/blob/main/profile_banner.png)
 
+![](https://komarev.com/ghpvc/?username=dinizmaths&style=for-the-badge)
 
 - 🎓 Graduated in **Science and Technology** from the  **Universidade Federal do Rio Grande do Norte**.
 - 📚 Currently pursuing a degree in **Computer Engineering** at the **Universidade Federal do Rio Grande do Norte**.
-
-<div align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=dinizmaths&style=for-the-badge)
-  
-</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DinizMaths&show_icons=true&theme=github_dark"/>

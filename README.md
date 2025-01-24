@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=dinizmaths&style=for-the-badge)
 
-- 🎓 Graduated in **Science and Technology** from the  **Universidade Federal do Rio Grande do Norte**.
-- 📚 Graduate student in **Computer Engineering** at the **Universidade Federal do Rio Grande do Norte**.
+- 🎓 Graduated in **Science and Technology** from the **Universidade Federal do Rio Grande do Norte**.
+- 🎓 Graduated in **Computer Engineering** from the **Universidade Federal do Rio Grande do Norte**.
 - 📚 Master's student in in **Eletrical and Computer Engineering** at the **Universidade Federal do Rio Grande do Norte**.
 
 <div align="center">

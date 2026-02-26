@@ -4,7 +4,7 @@
 
 - 🎓 Graduated in **Science and Technology** from the **Universidade Federal do Rio Grande do Norte**.
 - 🎓 Graduated in **Computer Engineering** from the **Universidade Federal do Rio Grande do Norte**.
-- 🎓 MsC in **Eletrical and Computer Engineering** at the **Universidade Federal do Rio Grande do Norte**.
+- 🎓 MSc in **Eletrical and Computer Engineering** at the **Universidade Federal do Rio Grande do Norte**.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DinizMaths&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
